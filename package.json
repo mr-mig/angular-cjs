@@ -1,6 +1,6 @@
 {
   "name": "angular-cjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "readme": "angular-cjs\n==========\n\nCommonJS module for the browser that exports a reference to AngularJS.",
   "_id": "angular-cjs@0.0.1",
   "description": "angular-cjs =========="
